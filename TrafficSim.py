@@ -31,7 +31,7 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("TrafficSim")
         self.resize(1100, 900)
         self.setFont(QFont("Arial", 10))
-        self.setWindowIcon(QIcon("./trsim.png"))
+        self.setWindowIcon(QIcon("./logos/trsim.png"))
         self.setIconSize(QSize(32, 32))
         self.setTabShape(QTabWidget.TabShape.Rounded)
 

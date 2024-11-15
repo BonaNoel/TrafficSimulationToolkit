@@ -1,6 +1,6 @@
 # TrafficSimulationToolkit
 
-TrafficSimulationToolkit is a collection of two Python applications developed as part of a thesis on traffic modeling and visualization. The applications utilize the OpenStreetMap (OSM) data and traffic simulation technologies to analyze and visualize road networks and simulate traffic flows. Both applications are designed with a PyQt6 graphical user interface (GUI) and are compatible with Python 3.9. Note that the requirements.txt may contain unused packages.
+TrafficSimulationToolkit is a collection of two Python applications developed as part of a thesis on traffic modeling and visualization. The applications utilize the OpenStreetMap (OSM) data and traffic simulation technologies to analyze and visualize road networks and simulate traffic flows. Both applications are designed with a PyQt6 graphical user interface (GUI) and are compatible with Python 3.9. Note that the requirements.txt may contain unused packages, needs pruning.
 
 ## Applications
 
@@ -26,11 +26,3 @@ TrafficSim uses the **UXSim** package to simulate traffic flows in a modeled roa
 - Provides a graphical interface for setting up and executing simulations.
 - Displays real-time simulation results.
 - Allows analysis of traffic patterns, congestion, and more.
-
-### Contributing
-
-If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-
-### License
-
-This project is provided as-is, and anyone is free to use, modify, and distribute it in any way they see fit. There is no warranty of any kind, express or implied. By using this project, you agree to do so at your own risk.

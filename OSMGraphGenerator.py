@@ -30,7 +30,7 @@ class MainWindow(QMainWindow):
         self.resize(1100, 900)
         self.setFont(QtGui.QFont("Arial", 10))
         self.setCursor(QtGui.QCursor(QtCore.Qt.CursorShape.ArrowCursor))
-        self.setWindowIcon(QtGui.QIcon("./worldwide.png"))
+        self.setWindowIcon(QtGui.QIcon("./logos/osmgraphgenerator.png"))
         self.setIconSize(QtCore.QSize(32, 32))
         self.setTabShape(QtWidgets.QTabWidget.TabShape.Rounded)
 
